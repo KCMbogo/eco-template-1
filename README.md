@@ -1,1 +1,0 @@
-# eco-template-1
